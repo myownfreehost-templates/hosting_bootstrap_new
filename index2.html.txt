@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Welcome!</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+</head>
+<body>
+<h2>HTML 404</h2>
+<center>
+<small>Congratulations! Your free hosting account has been activated.</small><br>
+<small><i>You can now use FTP or the file manager in your cPanel to upload your site.</i></small>
+</center>
+</body>
+</html>
